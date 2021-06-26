@@ -17,6 +17,8 @@ If the turtle on which you bet on wins you WIN! If not then better luck next tim
 
 2)I have used PyCharm to develop this game.
 
+I have also attached screenshots of the game in the folder Screenshots.
+
 
 
 Enjoy!!
